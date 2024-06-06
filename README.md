@@ -1,4 +1,1 @@
-LukaM5 Vite JS Project for Grinders
-
-NFT Minter
-Connect Wallet - Metamask
+testnet contributor - node runner <3
