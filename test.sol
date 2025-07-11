@@ -1,4 +1,4 @@
-pragma solidity ^0.8.14;
+pragma solidity ^0.8.1234;
 
 contract StringConcatenation {
     string public concatenatedString;
